@@ -7,7 +7,7 @@ theme: jekyll-theme-cayman
                  </style>
                  </head>
 <body >
-  <h1 style="text-align: center">MY STORY
+  <h1 style="text-align: center">my story
   </h1>
 <p id="demo" style="display:none">Hellow,welcome to my page,and I'm longing to show you my life.<br/>Perhaps we will make friends!</p>
 <button type="button"
