@@ -27,7 +27,8 @@
 <p>我爱好和平，相信世界的未来将会走向统一，是马克思的坚定支持者；作为一名光荣的共青团员，我坚定相信中国共产党的领导一定会给中国带来一个光明的前途。我相信人生应该用于奋斗，美好的青春应该倍加珍惜。</p>
   <hr/>
   <h3>Here are some photos</h3>
-  <p>img src="
+  <p>
+    <img src="
 https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221456.jpg width="280" height="169"/>
   </p>
                               </body>
