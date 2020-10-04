@@ -1,7 +1,7 @@
 <html>
   <head>
     <style type="text/css">
-                 body{background-color=blue;}
+                 body{background-color="blue";}
                  </style>
                  </head>
 <body >
@@ -33,7 +33,11 @@
     <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221530.jpg"  width="280" height="145"/>
     <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221530.jpg"  width="280" height="145"/>
     <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221534.jpg"   width="280" height="145"/>
-   
+  
   </p>
+  <p>
+  <a href="https://github.com/wwgg000/wwgg000.img">更多照片</a>
+  </p>
+ 
                               </body>
 </html>
