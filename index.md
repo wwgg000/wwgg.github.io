@@ -1,7 +1,7 @@
 <html>
   <head>
     <style type="text/css">
-      body {background-image:url(/i/eg_bg_04.gif);}
+      body {background-color:orange;}
                  h1  {background-color:blue;}
                  </style>
                  </head>
