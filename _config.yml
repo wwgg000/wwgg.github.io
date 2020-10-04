@@ -7,7 +7,7 @@ theme: jekyll-theme-cayman
                  </head>
 <body >
 <!--这是我第一次编程,希望老师给过。-->
-  <h1 style="text-align: center"><cite>MY STORY</cite>
+  <h1 style="text-align: center">MY STORY
   </h1>
 <p id="demo" style="font-family:verdana;color:yellow;font-size:25px;display:none">Hellow,welcome to my page,and I'm longing to show you my life.<br/>Perhaps we will make friends!</p>
 <button type="button"
