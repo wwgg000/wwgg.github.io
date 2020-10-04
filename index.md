@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/wwgg000/wwgg000.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wwgg000/wwgg000.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<body style="blackground-color:PowerBlue">
+<!--这是我第一次编程,希望老师给过。-->
+<h1 style="text-align: center">MY STORY </h1>
+<p style="font-family:verdana;color:yellow;font-size:25px">Hellow,welcome to my page,and I'm longing to show you my life.<br/>Perhaps we will make friends!</p>
+<hr />
+<h3 style="text-align: center">自我介绍</h3>
+<p style="font-family:times;color:red">我叫王杲（wang gao）,自取英文名Alen Black。<br/>我来自甘肃一个叫静宁的小县城，这是古成纪所在地，即传说中的伏羲故里，华夏之源。<br/>  这里曾出过飞将军李广，南宋名将吴玠、吴璘兄弟，这里也曾经回响过红军的歌声、毛主席的沉着话语。</p>
+<hr/>
+<h3 style="text-align: center">我的人生经历</h3>
+<p style="font-family:verdana;color:green">我在乡村长大，后来在县城上学，成绩不温不火，然后来到了北京。在家乡的生活中，我经历过美好的早晨，也有凛冬之夜。无论哪种记忆，都在我的灵魂上刻下深深印痕，成为我的一部分。<br/>
+</p>
+<hr/>
+<h3 style="text-align: center">我的兴趣</h3>
+<P>我喜欢很多事情，在体育方面，我喜欢足球、乒乓球、台球、跑步等等；在艺术方面，我喜欢书法、写意画、工笔画；音乐方面，我喜欢卡农和一些舒缓柔和的音乐，但有时也喜欢摇滚乐。但遗憾的是，我没有突出的特长，只有上述兴趣。</p>
+<h3 style="text-align: center">我的世界观</h3>
+<p>我爱好和平，相信世界的未来将会走向统一，是马克思的坚定支持者；作为一名光荣的共青团员，我坚定相信中国共产党的领导一定会给中国带来一个光明的前途。我相信人生应该用于奋斗，美好的青春应该倍加珍惜。</p>
+</body>
+</html>
