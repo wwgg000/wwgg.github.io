@@ -1,7 +1,7 @@
 <html>
   <head>
     <style type="text/css">
-                 body{background-color:blue;}
+                 body{background-image:url(https://github.com/wwgg000/wwgg000.img/blob/main/98c7e87192456877ac9bab78846d74ce.jpg);}
                  </style>
                  </head>
 <body >
@@ -28,7 +28,12 @@
   <hr/>
   <h3>Here are some photos</h3>
   <p>
-    <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221456.jpg" />
+    <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221456.jpg" width="280" height="160" />
+    <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221524.jpg" width="270" height="150"/>
+    <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221530.jpg" width="280" height="160" />
+    <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221530.jpg" width="280" height="160" />
+    <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221534.jpg" width="280" height="160" />
+   
   </p>
                               </body>
 </html>
