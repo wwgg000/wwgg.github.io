@@ -26,9 +26,9 @@
 <h3 style="text-align: center">我的世界观</h3>
 <p>我爱好和平，相信世界的未来将会走向统一，是马克思的坚定支持者；作为一名光荣的共青团员，我坚定相信中国共产党的领导一定会给中国带来一个光明的前途。我相信人生应该用于奋斗，美好的青春应该倍加珍惜。</p>
 <button type="button"
-                     onclick="document.getElementById('demo').innerHTML=Date()">
+                     onclick="document.getElementById('ccc').innerHTML=Date()">
                                                                                实时时间
                                                                                </button>
-                                                                               <p   id="demo"</p>
+                                                                               <p   id="ccc"</p>
                               </body>
 </html>
