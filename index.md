@@ -1,7 +1,8 @@
 <html>
   <head>
     <style type="text/css">
-                 h1  {background-color=blue;}
+      body {background-image:url(https://github.com/wwgg000/wwgg000.img/blob/main/98c7e87192456877ac9bab78846d74ce.jpg);}
+                 h1  {background-color:blue;}
                  </style>
                  </head>
 <body >
