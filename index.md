@@ -1,9 +1,19 @@
 <html>
-<body style="blackground-color:PowerBlue">
+  <head>
+    <style type="text/css>
+                 body{background-color:blue;}
+                 </style>
+                 </head>
+<body >
 <!--这是我第一次编程,希望老师给过。-->
-<h1 style="text-align: center">MY STORY </h1>
-<p style="font-family:verdana;color:yellow;font-size:25px">Hellow,welcome to my page,and I'm longing to show you my life.<br/>Perhaps we will make friends!</p>
-<hr />
+  <h1 style="text-align: center">MY STORY
+  </h1>
+<p id="demo" style="font-family:verdana;color:yellow;font-size:25px;display:none">Hellow,welcome to my page,and I'm longing to show you my life.<br/>Perhaps we will make friends!</p>
+<button type="button"
+                     onclick="document.getElementById('demo').style.display='block'">
+                                                                                    点击我！
+                                                                                    </button>
+                                                                                 <hr />
 <h3 style="text-align: center">自我介绍</h3>
 <p style="font-family:times;color:red">我叫王杲（wang gao）,自取英文名Alen Black。<br/>我来自甘肃一个叫静宁的小县城，这是古成纪所在地，即传说中的伏羲故里，华夏之源。<br/>  这里曾出过飞将军李广，南宋名将吴玠、吴璘兄弟，这里也曾经回响过红军的歌声、毛主席的沉着话语。</p>
 <hr/>
@@ -15,5 +25,10 @@
 <P>我喜欢很多事情，在体育方面，我喜欢足球、乒乓球、台球、跑步等等；在艺术方面，我喜欢书法、写意画、工笔画；音乐方面，我喜欢卡农和一些舒缓柔和的音乐，但有时也喜欢摇滚乐。但遗憾的是，我没有突出的特长，只有上述兴趣。</p>
 <h3 style="text-align: center">我的世界观</h3>
 <p>我爱好和平，相信世界的未来将会走向统一，是马克思的坚定支持者；作为一名光荣的共青团员，我坚定相信中国共产党的领导一定会给中国带来一个光明的前途。我相信人生应该用于奋斗，美好的青春应该倍加珍惜。</p>
-</body>
+<button type="button"
+                     onclick="document.getElementById('demo').innerHTML=Date()">
+                                                                               实时时间
+                                                                               </button>
+                                                                               <p   id="demo"</p>
+                              </body>
 </html>
