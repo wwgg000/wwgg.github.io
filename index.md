@@ -1,7 +1,7 @@
 <html>
   <head>
     <style type="text/css">
-                 body{background-image:url(https://github.com/wwgg000/wwgg000.img/blob/main/98c7e87192456877ac9bab78846d74ce.jpg);}
+                 body{background-color=blue;}
                  </style>
                  </head>
 <body >
