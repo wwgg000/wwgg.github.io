@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 <html>
   <head>
     <style type="text/css">
-                 body{background-color:blue}
+                 body{background-color:orange}
                  </style>
                  </head>
 <body >
