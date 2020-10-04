@@ -1,9 +1,7 @@
 theme: jekyll-theme-cayman
+<html>
 
-<body>
-
-  <h1 >MY STORY
-  </h1>
+  <h1 >MY STORY </h1>
 <p >hellow,welcome to my page,and I long to show you my life.<br/>Perhaps we will make friends!</p>
  <hr />
 <h3 >自我介绍</h3>
@@ -17,6 +15,5 @@ theme: jekyll-theme-cayman
 <P>我喜欢很多事情，在体育方面，我喜欢足球、乒乓球、台球、跑步等等；在艺术方面，我喜欢书法、写意画、工笔画；音乐方面，我喜欢卡农和一些舒缓柔和的音乐，但有时也喜欢摇滚乐。但遗憾的是，我没有突出的特长，只有上述兴趣。</p>
 <h3 style="text-align: center">我的世界观</h3>
 <p>我爱好和平，相信世界的未来将会走向统一，是马克思的坚定支持者；作为一名光荣的共青团员，我坚定相信中国共产党的领导一定会给中国带来一个光明的前途。我相信人生应该用于奋斗，美好的青春应该倍加珍惜。</p>
-
-                              </body>
+</body>
 </html>
