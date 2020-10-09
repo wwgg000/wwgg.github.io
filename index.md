@@ -41,6 +41,4 @@
   <p>
   <a href="https://github.com/wwgg000/wwgg000.img">更多照片</a>
   </p>
- 
-                              
-</html>
+  </html>
