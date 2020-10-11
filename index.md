@@ -37,11 +37,11 @@
   <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201004221534.jpg?raw=true"/>
     <img src="https://github.com/wwgg000/wwgg000.img/blob/main/98c7e87192456877ac9bab78846d74ce.jpg?raw=true"/>
     <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E9%A9%AC%E6%9E%97%E6%A2%B5%E5%A4%9A.jpg?raw=true"/>
-    <p id="demod">
+    <p id="demo">
     <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201011233909.jpg?raw=true"/>
     </p>
  <button type="button"
-                     onclick="document.getElementById('demod').style.display='block'">
+                     onclick="document.getElementById('demo').style.display='block'">
    For a trick
    </button>
   </p>
