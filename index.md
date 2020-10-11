@@ -41,7 +41,7 @@
     <img src="https://github.com/wwgg000/wwgg000.img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201011233909.jpg?raw=true"/>
     </p>
  <button type="button"
-                     onclick="document.getElementById('demo').style.display='block'">
+                     onclick="document.getElementById('demo').style.display='none'">
                                                                      For a trick.
                                                                                    </button>
   <p>
