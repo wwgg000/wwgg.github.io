@@ -42,9 +42,8 @@
     </p>
  <button type="button"
                      onclick="document.getElementById('demo').style.display='block'">
-   For a trick
-   </button>
-  </p>
+                                                                     For a trick.
+                                                                                   </button>
   <p>
   <a href="https://github.com/wwgg000/wwgg000.img">更多照片</a>
   </p>
